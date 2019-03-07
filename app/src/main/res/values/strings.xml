@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Firebase Journal</string>
+    <string name="sign_in">Sign in</string>
+    <string name="log_in">Login</string>
+    <string name="username">Username</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="phone_no">Phone Number</string>
+    <string name="register">Register</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="click_here">Click here to Register</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="journal">Journal</string>
+    <string name="date">Date Added</string>
+</resources>
